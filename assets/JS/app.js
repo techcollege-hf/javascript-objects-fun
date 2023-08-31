@@ -23,7 +23,7 @@
 
 // data array
 
-Const myEmployees=[
+const myEmployees=[
     { navn: 'Alice', alder: 25, køn: 'Kvinde' },
     { navn: 'Bob', alder: 32, køn: 'Mand' },
     { navn: 'Charlie', alder: 19, køn: 'Mand' },
