@@ -1,2 +1,2 @@
 # javascript-objects-fun
-array og jobject øvelse
+array og object øvelse
